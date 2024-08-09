@@ -1,0 +1,18 @@
+echo "# git_gabi" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/gabriellykarinna/git_gabi.git
+git push -u origin main
+
+
+
+git commit -m "first commit"
+Comitar o nosso projeto com o nome "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/gabriellykarinna/git_gabi.git
+
+git push -u origin main
